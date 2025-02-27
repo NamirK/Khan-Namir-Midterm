@@ -6,6 +6,6 @@
     "dev": "wp-pwa dev",
     "start": "wp-pwa dev",
     "preview": "wp-pwa preview",
-    "build": "Khan-Namir-Midterm"
+    "build": "wp-pwa build Khan-Namir-Midterm"
   }
 }
